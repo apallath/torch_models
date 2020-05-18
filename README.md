@@ -1,6 +1,6 @@
 # Deep Learning code
 
-## Regression and classification using Pytorch fully connected neural networks (`torch_FullyConnected`)
+## Regression and classification using Pytorch models (`torch_FullyConnected`)
 - Jupyter notebook
 
 (Adapted from my solutions to homework problems for ENM531: Data Driven Modelling at Penn Engineering)
